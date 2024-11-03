@@ -1,0 +1,110 @@
+*{
+    margin: 0px 0px;
+}
+
+.h123{
+    color: rgb(219, 31, 31);
+    text-align: left;
+    font-family: "Nunito", sans-serif;
+    font-style: normal;
+    font-size: 25px;
+    padding-top: 10px;
+    padding-left: 10px;
+    position: fixed;
+}
+
+.bod1 {
+    padding-top: 50px;
+    text-align: center;
+    font-family: "Nunito", sans-serif;
+    font-style: normal;
+    font-size: 75px;
+    margin: 0px 0px;
+    padding-bottom: 50px;
+}
+
+.bod2{
+    width: 100%;
+    height: 500px;
+    background-color: rgb(241, 241, 241);
+    padding-top: 50px;
+    display: flex;
+    flex-wrap: nowrap;
+    justify-content: center;
+
+}
+
+.bod2 p{
+    font-family: "Nunito", sans-serif;
+    font-style: normal;
+    font-size: 16px;
+    margin: 0px 0px;
+    width: 250px;
+    padding-left: 25px;
+}
+
+.bod2 img{
+    width: 650px;
+    height: 450px;
+    border-radius: 20px;
+}
+
+.bod4 img{
+    padding-top: 15px ;
+    width: 750px;
+    height: 350px;
+    border-radius: 20px;
+    margin: 0 auto;
+
+}
+
+.bod4 h3{
+    padding-top: 45px;
+    font-family: "Nunito", sans-serif;
+    font-style: normal;
+    font-size: 40px;
+    text-align: center;
+}
+
+.bod4{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    flex-direction: column;
+}
+
+.bod99 h3{
+    font-family: "Nunito", sans-serif;
+    font-style: normal;
+    font-size: 18px;
+    margin: 0px 0px;
+    width: 750px;
+}
+
+.bod99{
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    width: 80%;
+    margin: 0 auto;
+    padding-top: 70px;
+    padding-left: 13.5px;
+    padding-right: 13.5px;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    padding-bottom: 35px;
+}
+
+.bod99 p{
+    padding-top: 12px;
+    color: rgb(153, 153, 153);
+    font-family: Montserrat;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 17px;
+    letter-spacing: 0%;
+    text-align: left;
+    width: 750px;
+    
+   
+}
